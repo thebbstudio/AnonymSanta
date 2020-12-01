@@ -9,7 +9,7 @@ namespace AnonymSanta
         public static string[] pullRecipients;
         static void Main(string[] args)
         {
-            pullSantas = new string[] { "Артём Павлов", "Владимир Сёмкин", "Даша Дерендяева", "Олеся Чернова", "Александр Великий", "Ольга Одношеина" };
+            pullSantas = new string[] { };
             pullRecipients = new string[pullSantas.Length];
 
             RandomOrder();
