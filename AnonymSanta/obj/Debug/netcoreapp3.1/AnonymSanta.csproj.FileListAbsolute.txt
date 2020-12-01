@@ -1,0 +1,13 @@
+C:\Users\111\source\repos\AnonymSanta\AnonymSanta\bin\Debug\netcoreapp3.1\AnonymSanta.exe
+C:\Users\111\source\repos\AnonymSanta\AnonymSanta\bin\Debug\netcoreapp3.1\AnonymSanta.deps.json
+C:\Users\111\source\repos\AnonymSanta\AnonymSanta\bin\Debug\netcoreapp3.1\AnonymSanta.runtimeconfig.json
+C:\Users\111\source\repos\AnonymSanta\AnonymSanta\bin\Debug\netcoreapp3.1\AnonymSanta.runtimeconfig.dev.json
+C:\Users\111\source\repos\AnonymSanta\AnonymSanta\bin\Debug\netcoreapp3.1\AnonymSanta.dll
+C:\Users\111\source\repos\AnonymSanta\AnonymSanta\bin\Debug\netcoreapp3.1\AnonymSanta.pdb
+C:\Users\111\source\repos\AnonymSanta\AnonymSanta\obj\Debug\netcoreapp3.1\AnonymSanta.csprojAssemblyReference.cache
+C:\Users\111\source\repos\AnonymSanta\AnonymSanta\obj\Debug\netcoreapp3.1\AnonymSanta.AssemblyInfoInputs.cache
+C:\Users\111\source\repos\AnonymSanta\AnonymSanta\obj\Debug\netcoreapp3.1\AnonymSanta.AssemblyInfo.cs
+C:\Users\111\source\repos\AnonymSanta\AnonymSanta\obj\Debug\netcoreapp3.1\AnonymSanta.csproj.CoreCompileInputs.cache
+C:\Users\111\source\repos\AnonymSanta\AnonymSanta\obj\Debug\netcoreapp3.1\AnonymSanta.dll
+C:\Users\111\source\repos\AnonymSanta\AnonymSanta\obj\Debug\netcoreapp3.1\AnonymSanta.pdb
+C:\Users\111\source\repos\AnonymSanta\AnonymSanta\obj\Debug\netcoreapp3.1\AnonymSanta.genruntimeconfig.cache
